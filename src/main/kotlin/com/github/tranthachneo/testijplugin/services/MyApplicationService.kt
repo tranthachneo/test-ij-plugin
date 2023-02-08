@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tranthachneo.testijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tranthachneo.testijplugin.MyBundle
 
 class MyApplicationService {
 
